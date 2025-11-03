@@ -1,0 +1,1 @@
+This repository has all the Python tasks and assignments from the Infosys Springboard Internship. It includes the tasks completed so far. Each task helps build basic skills in Machine Learning, NLP, and Data Analysis using Python.
