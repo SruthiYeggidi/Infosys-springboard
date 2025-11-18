@@ -30,6 +30,10 @@ Performance comparison of ML models
 * Day2.ipynb
 * Day3.ipynb
 * Day4.ipynb
+* Day5.ipynb
+* Day6.ipynb
+* Day7.ipynb
+* Day8.ipynb
 * README.md
 
 
